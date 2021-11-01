@@ -38,4 +38,4 @@ Perform the steps to start the client multiple times to create multiple clients.
 ![multiple_users_connected](https://user-images.githubusercontent.com/24194821/40889054-b4e388b8-6725-11e8-8107-39fb7580fa2c.png)
 
 
-### Copyright Akshat all rights reserved.
+### ©Copyright Akshat all rights reserved.
